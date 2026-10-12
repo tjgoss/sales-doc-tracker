@@ -1,0 +1,55 @@
+{
+  "deal_id": "deal_020",
+  "split": "test",
+  "slice": "nda_only_early",
+  "synthetic": true,
+  "seller": {
+    "company": "Cedar Peak Systems",
+    "domain": "cedarpeak.test",
+    "rep_name": "Avery Quinn",
+    "rep_email": "avery.quinn@cedarpeak.test"
+  },
+  "buyer": {
+    "company": "Lakeview Health Partners",
+    "domain": "lakeviewhealth.test",
+    "champion_name": "Taylor Brooks",
+    "champion_email": "taylor.brooks@lakeviewhealth.test"
+  },
+  "opportunity_name": "Lakeview Health Partners - Cedar Peak Systems FY26",
+  "thread_start_date": "2026-08-16",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-08-20",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-16",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-19",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-20",
+          "holder": "cust_legal",
+          "status": "in_review",
+          "note": "nda moved to cust_legal / in_review"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": true,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": true,
+    "forwarded_snippet": false
+  }
+}

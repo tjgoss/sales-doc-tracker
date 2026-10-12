@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_024",
+  "split": "dev",
+  "slice": "legal_stall_our",
+  "synthetic": true,
+  "seller": {
+    "company": "Cedar Peak Systems",
+    "domain": "cedarpeak.test",
+    "rep_name": "Avery Quinn",
+    "rep_email": "avery.quinn@cedarpeak.test"
+  },
+  "buyer": {
+    "company": "Polaris Manufacturing",
+    "domain": "polarismfg.test",
+    "champion_name": "Chris Alvarez",
+    "champion_email": "chris.alvarez@polarismfg.test"
+  },
+  "opportunity_name": "Polaris Manufacturing - Cedar Peak Systems FY26",
+  "thread_start_date": "2026-08-09",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-26",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-11",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-13",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-26",
+          "holder": "cust_legal",
+          "status": "redlines_with_us",
+          "note": "nda moved to cust_legal / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-20",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-09",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-09",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-20",
+          "holder": "our_legal",
+          "status": "redlines_with_us",
+          "note": "msa moved to our_legal / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-27",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-09",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-27",
+          "holder": "our_legal",
+          "status": "redlines_with_us",
+          "note": "dpa moved to our_legal / redlines_with_us"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": true,
+    "attachment_mentioned_not_attached": true,
+    "forwarded_snippet": false
+  }
+}

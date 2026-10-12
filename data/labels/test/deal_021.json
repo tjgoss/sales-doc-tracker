@@ -1,0 +1,40 @@
+{
+  "deal_id": "deal_021",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-10",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-13",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-13",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

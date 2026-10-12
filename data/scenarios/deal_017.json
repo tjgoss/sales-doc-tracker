@@ -1,0 +1,163 @@
+{
+  "deal_id": "deal_017",
+  "split": "test",
+  "slice": "deadline_explicit",
+  "synthetic": true,
+  "seller": {
+    "company": "Northline Analytics",
+    "domain": "northline.test",
+    "rep_name": "Jordan Hale",
+    "rep_email": "jordan.hale@northline.test"
+  },
+  "buyer": {
+    "company": "Harbor Mutual Bank",
+    "domain": "harbormutual.test",
+    "champion_name": "Drew Kim",
+    "champion_email": "drew.kim@harbormutual.test"
+  },
+  "opportunity_name": "Harbor Mutual Bank - Northline Analytics FY26",
+  "thread_start_date": "2026-08-29",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-09-11",
+      "deadline": "2026-09-18",
+      "events": [
+        {
+          "date": "2026-08-31",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-04",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-11",
+          "holder": "cust_legal",
+          "status": "blocked",
+          "note": "nda moved to cust_legal / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "events": [
+        {
+          "date": "2026-09-02",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-03",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "msa moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "blocked",
+      "last_movement_date": "2026-09-02",
+      "deadline": "2026-09-05",
+      "events": [
+        {
+          "date": "2026-08-30",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "security_questionnaire moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-01",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "security_questionnaire moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-02",
+          "holder": "our_rep",
+          "status": "blocked",
+          "note": "security_questionnaire moved to our_rep / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_procurement",
+      "status": "sent",
+      "last_movement_date": "2026-09-07",
+      "deadline": "2026-09-12",
+      "events": [
+        {
+          "date": "2026-09-01",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "soc2 moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-01",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "soc2 moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-07",
+          "holder": "cust_procurement",
+          "status": "sent",
+          "note": "soc2 moved to cust_procurement / sent"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "events": [
+        {
+          "date": "2026-08-31",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-01",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "dpa moved to our_rep / signed"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

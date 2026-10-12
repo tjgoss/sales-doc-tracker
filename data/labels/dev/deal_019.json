@@ -1,0 +1,40 @@
+{
+  "deal_id": "deal_019",
+  "split": "dev",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-09-17",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with our legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_security",
+      "status": "blocked",
+      "last_movement_date": "2026-09-04",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is blocked pending our security / trust team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_security",
+      "status": "requested",
+      "last_movement_date": "2026-09-21",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the soc2 when you have a chance?",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

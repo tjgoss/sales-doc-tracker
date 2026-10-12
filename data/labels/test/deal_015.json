@@ -1,0 +1,40 @@
+{
+  "deal_id": "deal_015",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "sent",
+      "last_movement_date": "2026-10-04",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the msa for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-24",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The sow is blocked pending your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "cust_procurement",
+      "status": "in_review",
+      "last_movement_date": "2026-10-07",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is currently with your procurement team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

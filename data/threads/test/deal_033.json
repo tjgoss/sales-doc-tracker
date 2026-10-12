@@ -1,0 +1,145 @@
+{
+  "deal_id": "deal_033",
+  "split": "test",
+  "slice": "security_stall_cust",
+  "synthetic": true,
+  "subject": "Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_033_m01",
+      "date": "2026-08-04",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nGreat call today on Summit Freight Co evaluating Northline Analytics. I'll start lining up the usual deal documents on our side.\n\nThanks,\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m02",
+      "date": "2026-08-05",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the nda when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m03",
+      "date": "2026-08-06",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the nda for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m04",
+      "date": "2026-08-07",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nWe have redlines on the nda back with our security / trust team.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m05",
+      "date": "2026-08-07",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the msa when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m06",
+      "date": "2026-08-10",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the msa for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m07",
+      "date": "2026-08-21",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nI've sent over the msa for review.\n\nMorgan Lee"
+    },
+    {
+      "message_id": "deal_033_m08",
+      "date": "2026-08-04",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the security questionnaire when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m09",
+      "date": "2026-08-04",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the security questionnaire for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_033_m10",
+      "date": "2026-08-04",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nThe security questionnaire is currently with your security team for review.\n\nMorgan Lee"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-07",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the nda back with our security / trust team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_security",
+      "status": "sent",
+      "last_movement_date": "2026-08-21",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the msa for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-08-04",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is currently with your security team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

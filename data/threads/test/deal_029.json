@@ -1,0 +1,145 @@
+{
+  "deal_id": "deal_029",
+  "split": "test",
+  "slice": "soc2_expired_request",
+  "synthetic": true,
+  "subject": "Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_029_m01",
+      "date": "2026-08-11",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nGreat call today on Harbor Mutual Bank evaluating Northline Analytics. I'll start lining up the usual deal documents on our side.\n\nThanks,\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m02",
+      "date": "2026-08-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the nda when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m03",
+      "date": "2026-08-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the nda for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m04",
+      "date": "2026-08-15",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe nda is currently with our security / trust team for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m05",
+      "date": "2026-08-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the msa when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m06",
+      "date": "2026-08-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the msa for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m07",
+      "date": "2026-08-15",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nWe have redlines on the msa back with your security team.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_029_m08",
+      "date": "2026-08-13",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the soc2 when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m09",
+      "date": "2026-08-15",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the soc2 for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_029_m10",
+      "date": "2026-08-19",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the soc2 when you have a chance?\n\nJordan Hale"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "in_review",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with our security / trust team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the msa back with your security team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_security",
+      "status": "requested",
+      "last_movement_date": "2026-08-19",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the soc2 when you have a chance?",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

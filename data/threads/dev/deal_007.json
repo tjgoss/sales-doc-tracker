@@ -1,0 +1,227 @@
+{
+  "deal_id": "deal_007",
+  "split": "dev",
+  "slice": "deadline_explicit",
+  "synthetic": true,
+  "subject": "Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_007_m01",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nGreat call today on Meridian Retail Group evaluating Bright Harbor Software. I'll start lining up the usual deal documents on our side.\n\nThanks,\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m02",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the nda when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m03",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the nda for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m04",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe nda is fully signed and complete. Please aim to finish by 2026-08-12.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m05",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the msa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m06",
+      "date": "2026-08-07",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m07",
+      "date": "2026-08-21",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe msa is fully signed and complete. Please aim to finish by 2026-08-31.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m08",
+      "date": "2026-08-09",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the security questionnaire when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m09",
+      "date": "2026-08-13",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the security questionnaire for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m10",
+      "date": "2026-08-15",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe security questionnaire is blocked pending our legal team. Please aim to finish by 2026-08-20.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m11",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the soc2 when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m12",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the soc2 for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m13",
+      "date": "2026-08-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe soc2 is fully signed and complete. Please aim to finish by 2026-08-12.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m14",
+      "date": "2026-08-09",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the sow when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m15",
+      "date": "2026-08-12",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the sow for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_007_m16",
+      "date": "2026-08-12",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe sow is blocked pending our legal team. Please aim to finish by 2026-08-15.\n\nRiley Santos"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-05",
+      "deadline": "2026-08-12",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete. Please aim to finish by 2026-08-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-21",
+      "deadline": "2026-08-31",
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete. Please aim to finish by 2026-08-31.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-08-15",
+      "deadline": "2026-08-20",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our legal team. Please aim to finish by 2026-08-20.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-05",
+      "deadline": "2026-08-12",
+      "confidence": 1.0,
+      "evidence_quote": "The soc2 is fully signed and complete. Please aim to finish by 2026-08-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-08-12",
+      "deadline": "2026-08-15",
+      "confidence": 1.0,
+      "evidence_quote": "The sow is blocked pending our legal team. Please aim to finish by 2026-08-15.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

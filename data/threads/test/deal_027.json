@@ -1,0 +1,237 @@
+{
+  "deal_id": "deal_027",
+  "split": "test",
+  "slice": "deadline_explicit",
+  "synthetic": true,
+  "subject": "Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_027_m01",
+      "date": "2026-08-31",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nGreat call today on Summit Freight Co evaluating Bright Harbor Software. I'll start lining up the usual deal documents on our side.\n\nThanks,\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m02",
+      "date": "2026-09-01",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nMorgan Lee"
+    },
+    {
+      "message_id": "deal_027_m03",
+      "date": "2026-09-02",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the nda when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m04",
+      "date": "2026-09-05",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the nda for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m05",
+      "date": "2026-09-12",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nThe nda is currently with your security team for review. Please aim to finish by 2026-09-17.\n\nMorgan Lee"
+    },
+    {
+      "message_id": "deal_027_m06",
+      "date": "2026-08-31",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the msa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m07",
+      "date": "2026-09-04",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m08",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the msa when you have a chance? Please aim to finish by 2026-09-20.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m09",
+      "date": "2026-09-04",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the sow when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m10",
+      "date": "2026-09-08",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the sow for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m11",
+      "date": "2026-09-15",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nWe have redlines on the sow back with your legal team. Please aim to finish by 2026-09-22.\n\nMorgan Lee"
+    },
+    {
+      "message_id": "deal_027_m12",
+      "date": "2026-09-03",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the security questionnaire when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m13",
+      "date": "2026-09-03",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the security questionnaire for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m14",
+      "date": "2026-09-08",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nThe security questionnaire is blocked pending our account team. Please aim to finish by 2026-09-18.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m15",
+      "date": "2026-09-01",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the soc2 when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m16",
+      "date": "2026-09-01",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the soc2 for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_027_m17",
+      "date": "2026-09-01",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nWe have redlines on the soc2 back with your procurement team. Please aim to finish by 2026-09-04.\n\nMorgan Lee"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-09-12",
+      "deadline": "2026-09-17",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with your security team for review. Please aim to finish by 2026-09-17.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "requested",
+      "last_movement_date": "2026-09-17",
+      "deadline": "2026-09-20",
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the msa when you have a chance? Please aim to finish by 2026-09-20.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-15",
+      "deadline": "2026-09-22",
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the sow back with your legal team. Please aim to finish by 2026-09-22.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "blocked",
+      "last_movement_date": "2026-09-08",
+      "deadline": "2026-09-18",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our account team. Please aim to finish by 2026-09-18.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_procurement",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-01",
+      "deadline": "2026-09-04",
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the soc2 back with your procurement team. Please aim to finish by 2026-09-04.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

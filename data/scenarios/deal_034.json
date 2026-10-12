@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_034",
+  "split": "test",
+  "slice": "legal_stall_our",
+  "synthetic": true,
+  "seller": {
+    "company": "Pinnacle Ops",
+    "domain": "pinnacleops.test",
+    "rep_name": "Casey Ng",
+    "rep_email": "casey.ng@pinnacleops.test"
+  },
+  "buyer": {
+    "company": "Atlas Civic Tech",
+    "domain": "atlascivic.test",
+    "champion_name": "Jamie Patel",
+    "champion_email": "jamie.patel@atlascivic.test"
+  },
+  "opportunity_name": "Atlas Civic Tech - Pinnacle Ops FY26",
+  "thread_start_date": "2026-08-03",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-08-07",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-07",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-07",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-07",
+          "holder": "cust_procurement",
+          "status": "blocked",
+          "note": "nda moved to cust_procurement / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-14",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-03",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-06",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-14",
+          "holder": "our_legal",
+          "status": "redlines_with_us",
+          "note": "msa moved to our_legal / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-03",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-03",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-15",
+          "holder": "our_legal",
+          "status": "redlines_with_us",
+          "note": "dpa moved to our_legal / redlines_with_us"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

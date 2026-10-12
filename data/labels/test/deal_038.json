@@ -1,0 +1,62 @@
+{
+  "deal_id": "deal_038",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-10-06",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the nda back with our security / trust team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-09-29",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is currently with our legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-10-04",
+      "deadline": "2026-10-09",
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the dpa are with our legal team. Please aim to finish by 2026-10-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-29",
+      "deadline": "2026-10-02",
+      "confidence": 1.0,
+      "evidence_quote": "The sow is fully signed and complete. Please aim to finish by 2026-10-02.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_security",
+      "status": "blocked",
+      "last_movement_date": "2026-09-25",
+      "deadline": "2026-10-02",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our security / trust team. Please aim to finish by 2026-10-02.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

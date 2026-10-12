@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_016",
+  "split": "dev",
+  "slice": "multi_doc_mixed",
+  "synthetic": true,
+  "seller": {
+    "company": "Cedar Peak Systems",
+    "domain": "cedarpeak.test",
+    "rep_name": "Avery Quinn",
+    "rep_email": "avery.quinn@cedarpeak.test"
+  },
+  "buyer": {
+    "company": "Atlas Civic Tech",
+    "domain": "atlascivic.test",
+    "champion_name": "Jamie Patel",
+    "champion_email": "jamie.patel@atlascivic.test"
+  },
+  "opportunity_name": "Atlas Civic Tech - Cedar Peak Systems FY26",
+  "thread_start_date": "2026-09-06",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_legal",
+      "status": "requested",
+      "last_movement_date": "2026-09-23",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-07",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-07",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-23",
+          "holder": "our_legal",
+          "status": "requested",
+          "note": "nda moved to our_legal / requested"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_security",
+      "status": "sent",
+      "last_movement_date": "2026-09-21",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-10",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-10",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-21",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "msa moved to our_security / sent"
+        }
+      ]
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-09-17",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-09",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "soc2 moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-11",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "soc2 moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-17",
+          "holder": "cust_security",
+          "status": "in_review",
+          "note": "soc2 moved to cust_security / in_review"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": true,
+    "forwarded_snippet": false
+  }
+}

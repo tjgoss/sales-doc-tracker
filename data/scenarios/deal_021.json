@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_021",
+  "split": "test",
+  "slice": "happy_path_signed",
+  "synthetic": true,
+  "seller": {
+    "company": "Northline Analytics",
+    "domain": "northline.test",
+    "rep_name": "Jordan Hale",
+    "rep_email": "jordan.hale@northline.test"
+  },
+  "buyer": {
+    "company": "Summit Freight Co",
+    "domain": "summitfreight.test",
+    "champion_name": "Morgan Lee",
+    "champion_email": "morgan.lee@summitfreight.test"
+  },
+  "opportunity_name": "Summit Freight Co - Northline Analytics FY26",
+  "thread_start_date": "2026-09-01",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-10",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-04",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-05",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-10",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "nda moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-13",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-03",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-03",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-13",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "msa moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-13",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-02",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "security_questionnaire moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-03",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "security_questionnaire moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-13",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "security_questionnaire moved to our_rep / signed"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": true,
+    "attachment_mentioned_not_attached": true,
+    "forwarded_snippet": true
+  }
+}

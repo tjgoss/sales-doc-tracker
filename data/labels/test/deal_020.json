@@ -1,0 +1,18 @@
+{
+  "deal_id": "deal_020",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-08-20",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with your legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

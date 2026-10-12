@@ -1,0 +1,63 @@
+{
+  "deal_id": "deal_020",
+  "split": "test",
+  "slice": "nda_only_early",
+  "synthetic": true,
+  "subject": "Lakeview Health Partners - Cedar Peak Systems FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_020_m01",
+      "date": "2026-08-16",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Lakeview Health Partners - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nGreat call today on Lakeview Health Partners evaluating Cedar Peak Systems. I'll start lining up the usual deal documents on our side.\n\nThanks,\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_020_m02",
+      "date": "2026-08-16",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the nda when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_020_m03",
+      "date": "2026-08-19",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the nda for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_020_m04",
+      "date": "2026-08-20",
+      "from": "Taylor Brooks <taylor.brooks@lakeviewhealth.test>",
+      "to": [
+        "Avery Quinn <avery.quinn@cedarpeak.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Avery,\n\nThe nda is currently with your legal team for review.\n\nTaylor Brooks"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-08-20",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with your legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

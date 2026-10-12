@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_031",
+  "split": "dev",
+  "slice": "happy_path_signed",
+  "synthetic": true,
+  "seller": {
+    "company": "Bright Harbor Software",
+    "domain": "brightharbor.test",
+    "rep_name": "Riley Santos",
+    "rep_email": "riley.santos@brightharbor.test"
+  },
+  "buyer": {
+    "company": "Meridian Retail Group",
+    "domain": "meridian-retail.test",
+    "champion_name": "Sam Ortiz",
+    "champion_email": "sam.ortiz@meridian-retail.test"
+  },
+  "opportunity_name": "Meridian Retail Group - Bright Harbor Software FY26",
+  "thread_start_date": "2026-09-03",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-05",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-05",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-05",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-05",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "nda moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-14",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-03",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-14",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "msa moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-07",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-06",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "sow moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "sow moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-07",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "sow moved to our_rep / signed"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": true,
+    "forwarded_snippet": true
+  }
+}

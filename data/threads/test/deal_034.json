@@ -1,0 +1,145 @@
+{
+  "deal_id": "deal_034",
+  "split": "test",
+  "slice": "legal_stall_our",
+  "synthetic": true,
+  "subject": "Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_034_m01",
+      "date": "2026-08-03",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nGreat call today on Atlas Civic Tech evaluating Pinnacle Ops. I'll start lining up the usual deal documents on our side.\n\nThanks,\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m02",
+      "date": "2026-08-07",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the nda when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m03",
+      "date": "2026-08-07",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the nda for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m04",
+      "date": "2026-08-07",
+      "from": "Jamie Patel <jamie.patel@atlascivic.test>",
+      "to": [
+        "Casey Ng <casey.ng@pinnacleops.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Casey,\n\nThe nda is blocked pending your procurement team.\n\nJamie Patel"
+    },
+    {
+      "message_id": "deal_034_m05",
+      "date": "2026-08-03",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the msa when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m06",
+      "date": "2026-08-06",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the msa for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m07",
+      "date": "2026-08-14",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nWe have redlines on the msa back with our legal team.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m08",
+      "date": "2026-08-03",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the dpa when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m09",
+      "date": "2026-08-03",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the dpa for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_034_m10",
+      "date": "2026-08-15",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nWe have redlines on the dpa back with our legal team.\n\nCasey Ng"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-08-07",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is blocked pending your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-14",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the msa back with our legal team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the dpa back with our legal team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

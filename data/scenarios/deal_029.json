@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_029",
+  "split": "test",
+  "slice": "soc2_expired_request",
+  "synthetic": true,
+  "seller": {
+    "company": "Northline Analytics",
+    "domain": "northline.test",
+    "rep_name": "Jordan Hale",
+    "rep_email": "jordan.hale@northline.test"
+  },
+  "buyer": {
+    "company": "Harbor Mutual Bank",
+    "domain": "harbormutual.test",
+    "champion_name": "Drew Kim",
+    "champion_email": "drew.kim@harbormutual.test"
+  },
+  "opportunity_name": "Harbor Mutual Bank - Northline Analytics FY26",
+  "thread_start_date": "2026-08-11",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "in_review",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-14",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-14",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-15",
+          "holder": "our_security",
+          "status": "in_review",
+          "note": "nda moved to our_security / in_review"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-14",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-14",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-15",
+          "holder": "cust_security",
+          "status": "redlines_with_us",
+          "note": "msa moved to cust_security / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_security",
+      "status": "requested",
+      "last_movement_date": "2026-08-19",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-13",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "soc2 moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-15",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "soc2 moved to our_security / sent"
+        },
+        {
+          "date": "2026-08-19",
+          "holder": "our_security",
+          "status": "requested",
+          "note": "soc2 moved to our_security / requested"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": true,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "deal_id": "deal_036",
+  "split": "test",
+  "slice": "multi_doc_mixed",
+  "synthetic": true,
+  "seller": {
+    "company": "Cedar Peak Systems",
+    "domain": "cedarpeak.test",
+    "rep_name": "Avery Quinn",
+    "rep_email": "avery.quinn@cedarpeak.test"
+  },
+  "buyer": {
+    "company": "Polaris Manufacturing",
+    "domain": "polarismfg.test",
+    "champion_name": "Chris Alvarez",
+    "champion_email": "chris.alvarez@polarismfg.test"
+  },
+  "opportunity_name": "Polaris Manufacturing - Cedar Peak Systems FY26",
+  "thread_start_date": "2026-09-05",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "sent",
+      "last_movement_date": "2026-09-08",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-05",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-08",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "nda moved to our_security / sent"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_legal",
+      "status": "requested",
+      "last_movement_date": "2026-09-10",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-06",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-06",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-10",
+          "holder": "cust_legal",
+          "status": "requested",
+          "note": "msa moved to cust_legal / requested"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-09-05",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-05",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-05",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-05",
+          "holder": "cust_procurement",
+          "status": "redlines_with_customer",
+          "note": "dpa moved to cust_procurement / redlines_with_customer"
+        }
+      ]
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-19",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-05",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "soc2 moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-08",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "soc2 moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-19",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "soc2 moved to our_rep / signed"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": true,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

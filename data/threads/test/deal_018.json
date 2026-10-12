@@ -1,0 +1,196 @@
+{
+  "deal_id": "deal_018",
+  "split": "test",
+  "slice": "deadline_implied",
+  "synthetic": true,
+  "subject": "Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_018_m01",
+      "date": "2026-09-22",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nGreat call today on Polaris Manufacturing evaluating Pinnacle Ops. I'll start lining up the usual deal documents on our side.\n\nThanks,\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m02",
+      "date": "2026-09-23",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Casey Ng <casey.ng@pinnacleops.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Casey,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nChris Alvarez"
+    },
+    {
+      "message_id": "deal_018_m03",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the nda when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m04",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the nda for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m05",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nThe nda is fully signed and complete. Please aim to finish by 2026-10-02.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m06",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the msa when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m07",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the msa for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m08",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nThe msa is currently with our legal team for review. Please aim to finish by 2026-09-25.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m09",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the soc2 when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m10",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the soc2 for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m11",
+      "date": "2026-09-23",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Casey Ng <casey.ng@pinnacleops.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Casey,\n\nWe have redlines on the soc2 back with your legal team.\n\nChris Alvarez"
+    },
+    {
+      "message_id": "deal_018_m12",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the security questionnaire when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m13",
+      "date": "2026-09-27",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the security questionnaire for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_018_m14",
+      "date": "2026-09-27",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Casey Ng <casey.ng@pinnacleops.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Casey,\n\nRedlines on the security questionnaire are with your procurement team.\n\nChris Alvarez"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-25",
+      "deadline": "2026-10-02",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete. Please aim to finish by 2026-10-02.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-09-23",
+      "deadline": "2026-09-25",
+      "confidence": 1.0,
+      "evidence_quote": "The msa is currently with our legal team for review. Please aim to finish by 2026-09-25.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-23",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the soc2 back with your legal team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-09-27",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the security questionnaire are with your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

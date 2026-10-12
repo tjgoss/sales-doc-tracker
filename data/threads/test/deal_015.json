@@ -1,0 +1,145 @@
+{
+  "deal_id": "deal_015",
+  "split": "test",
+  "slice": "procurement_block",
+  "synthetic": true,
+  "subject": "Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_015_m01",
+      "date": "2026-09-20",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nGreat call today on Summit Freight Co evaluating Bright Harbor Software. I'll start lining up the usual deal documents on our side.\n\nThanks,\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m02",
+      "date": "2026-09-22",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the msa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m03",
+      "date": "2026-09-22",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m04",
+      "date": "2026-10-04",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m05",
+      "date": "2026-09-20",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the sow when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m06",
+      "date": "2026-09-22",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the sow for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m07",
+      "date": "2026-09-24",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nThe sow is blocked pending your procurement team.\n\nMorgan Lee"
+    },
+    {
+      "message_id": "deal_015_m08",
+      "date": "2026-09-22",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nCould you please share the dpa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m09",
+      "date": "2026-09-26",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Morgan Lee <morgan.lee@summitfreight.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Morgan,\n\nI've sent over the dpa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_015_m10",
+      "date": "2026-10-07",
+      "from": "Morgan Lee <morgan.lee@summitfreight.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Summit Freight Co - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nThe dpa is currently with your procurement team for review.\n\nMorgan Lee"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "sent",
+      "last_movement_date": "2026-10-04",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the msa for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-24",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The sow is blocked pending your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "cust_procurement",
+      "status": "in_review",
+      "last_movement_date": "2026-10-07",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is currently with your procurement team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

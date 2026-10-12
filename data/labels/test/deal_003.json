@@ -1,0 +1,40 @@
+{
+  "deal_id": "deal_003",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "requested",
+      "last_movement_date": "2026-10-03",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the nda when you have a chance?",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-27",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the msa back with your security team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-10-07",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is currently with your security team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

@@ -1,0 +1,163 @@
+{
+  "deal_id": "deal_038",
+  "split": "test",
+  "slice": "deadline_implied",
+  "synthetic": true,
+  "seller": {
+    "company": "Pinnacle Ops",
+    "domain": "pinnacleops.test",
+    "rep_name": "Casey Ng",
+    "rep_email": "casey.ng@pinnacleops.test"
+  },
+  "buyer": {
+    "company": "Lakeview Health Partners",
+    "domain": "lakeviewhealth.test",
+    "champion_name": "Taylor Brooks",
+    "champion_email": "taylor.brooks@lakeviewhealth.test"
+  },
+  "opportunity_name": "Lakeview Health Partners - Pinnacle Ops FY26",
+  "thread_start_date": "2026-09-19",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-10-06",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-23",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-25",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-10-06",
+          "holder": "our_security",
+          "status": "redlines_with_us",
+          "note": "nda moved to our_security / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-09-29",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-19",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-21",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-29",
+          "holder": "our_legal",
+          "status": "in_review",
+          "note": "msa moved to our_legal / in_review"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-10-04",
+      "deadline": "2026-10-09",
+      "events": [
+        {
+          "date": "2026-09-23",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-24",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-10-04",
+          "holder": "our_legal",
+          "status": "redlines_with_customer",
+          "note": "dpa moved to our_legal / redlines_with_customer"
+        }
+      ]
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-29",
+      "deadline": "2026-10-02",
+      "events": [
+        {
+          "date": "2026-09-22",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "sow moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-23",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "sow moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-29",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "sow moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_security",
+      "status": "blocked",
+      "last_movement_date": "2026-09-25",
+      "deadline": "2026-10-02",
+      "events": [
+        {
+          "date": "2026-09-22",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "security_questionnaire moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-25",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "security_questionnaire moved to our_security / sent"
+        },
+        {
+          "date": "2026-09-25",
+          "holder": "our_security",
+          "status": "blocked",
+          "note": "security_questionnaire moved to our_security / blocked"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": true
+  }
+}

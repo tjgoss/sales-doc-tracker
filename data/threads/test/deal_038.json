@@ -1,0 +1,227 @@
+{
+  "deal_id": "deal_038",
+  "split": "test",
+  "slice": "deadline_implied",
+  "synthetic": true,
+  "subject": "Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_038_m01",
+      "date": "2026-09-19",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nGreat call today on Lakeview Health Partners evaluating Pinnacle Ops. I'll start lining up the usual deal documents on our side.\n\nThanks,\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m02",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the nda when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m03",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the nda for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m04",
+      "date": "2026-10-06",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nWe have redlines on the nda back with our security / trust team.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m05",
+      "date": "2026-09-19",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the msa when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m06",
+      "date": "2026-09-21",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the msa for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m07",
+      "date": "2026-09-29",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nThe msa is currently with our legal team for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m08",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the dpa when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m09",
+      "date": "2026-09-24",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the dpa for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m10",
+      "date": "2026-10-04",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nRedlines on the dpa are with our legal team. Please aim to finish by 2026-10-09.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m11",
+      "date": "2026-09-22",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the sow when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m12",
+      "date": "2026-09-23",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the sow for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m13",
+      "date": "2026-09-29",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nThe sow is fully signed and complete. Please aim to finish by 2026-10-02.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m14",
+      "date": "2026-09-22",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nCould you please share the security questionnaire when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m15",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nI've sent over the security questionnaire for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_038_m16",
+      "date": "2026-09-25",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Taylor Brooks <taylor.brooks@lakeviewhealth.test>"
+      ],
+      "subject": "Re: Lakeview Health Partners - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Taylor,\n\nThe security questionnaire is blocked pending our security / trust team. Please aim to finish by 2026-10-02.\n\nCasey Ng"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-10-06",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the nda back with our security / trust team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-09-29",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is currently with our legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-10-04",
+      "deadline": "2026-10-09",
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the dpa are with our legal team. Please aim to finish by 2026-10-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-29",
+      "deadline": "2026-10-02",
+      "confidence": 1.0,
+      "evidence_quote": "The sow is fully signed and complete. Please aim to finish by 2026-10-02.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_security",
+      "status": "blocked",
+      "last_movement_date": "2026-09-25",
+      "deadline": "2026-10-02",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our security / trust team. Please aim to finish by 2026-10-02.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

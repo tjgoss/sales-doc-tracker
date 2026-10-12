@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_015",
+  "split": "test",
+  "slice": "procurement_block",
+  "synthetic": true,
+  "seller": {
+    "company": "Bright Harbor Software",
+    "domain": "brightharbor.test",
+    "rep_name": "Riley Santos",
+    "rep_email": "riley.santos@brightharbor.test"
+  },
+  "buyer": {
+    "company": "Summit Freight Co",
+    "domain": "summitfreight.test",
+    "champion_name": "Morgan Lee",
+    "champion_email": "morgan.lee@summitfreight.test"
+  },
+  "opportunity_name": "Summit Freight Co - Bright Harbor Software FY26",
+  "thread_start_date": "2026-09-20",
+  "documents": [
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "sent",
+      "last_movement_date": "2026-10-04",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-22",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-22",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-10-04",
+          "holder": "our_rep",
+          "status": "sent",
+          "note": "msa moved to our_rep / sent"
+        }
+      ]
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-24",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-20",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "sow moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-22",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "sow moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-24",
+          "holder": "cust_procurement",
+          "status": "blocked",
+          "note": "sow moved to cust_procurement / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "cust_procurement",
+      "status": "in_review",
+      "last_movement_date": "2026-10-07",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-22",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-26",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-10-07",
+          "holder": "cust_procurement",
+          "status": "in_review",
+          "note": "dpa moved to cust_procurement / in_review"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": true,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": true
+  }
+}

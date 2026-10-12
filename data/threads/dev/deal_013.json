@@ -1,0 +1,155 @@
+{
+  "deal_id": "deal_013",
+  "split": "dev",
+  "slice": "security_stall_cust",
+  "synthetic": true,
+  "subject": "Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_013_m01",
+      "date": "2026-09-12",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nGreat call today on Meridian Retail Group evaluating Northline Analytics. I'll start lining up the usual deal documents on our side.\n\nThanks,\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m02",
+      "date": "2026-09-13",
+      "from": "Sam Ortiz <sam.ortiz@meridian-retail.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nSam Ortiz"
+    },
+    {
+      "message_id": "deal_013_m03",
+      "date": "2026-09-12",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the nda when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m04",
+      "date": "2026-09-13",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the nda for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m05",
+      "date": "2026-09-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nThe nda is fully signed and complete.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m06",
+      "date": "2026-09-15",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the msa when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m07",
+      "date": "2026-09-15",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the msa for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m08",
+      "date": "2026-09-15",
+      "from": "Sam Ortiz <sam.ortiz@meridian-retail.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nWe have redlines on the msa back with your procurement team.\n\nSam Ortiz"
+    },
+    {
+      "message_id": "deal_013_m09",
+      "date": "2026-09-12",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nCould you please share the security questionnaire when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m10",
+      "date": "2026-09-14",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Sam Ortiz <sam.ortiz@meridian-retail.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Sam,\n\nI've sent over the security questionnaire for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_013_m11",
+      "date": "2026-09-30",
+      "from": "Sam Ortiz <sam.ortiz@meridian-retail.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Meridian Retail Group - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nThe security questionnaire is currently with your security team for review.\n\nSam Ortiz"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-14",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_procurement",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-15",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the msa back with your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-09-30",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is currently with your security team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

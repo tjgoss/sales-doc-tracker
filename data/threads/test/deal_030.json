@@ -1,0 +1,63 @@
+{
+  "deal_id": "deal_030",
+  "split": "test",
+  "slice": "nda_only_early",
+  "synthetic": true,
+  "subject": "Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_030_m01",
+      "date": "2026-08-14",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nGreat call today on Polaris Manufacturing evaluating Pinnacle Ops. I'll start lining up the usual deal documents on our side.\n\nThanks,\nCasey Ng"
+    },
+    {
+      "message_id": "deal_030_m02",
+      "date": "2026-08-15",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the nda when you have a chance?\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_030_m03",
+      "date": "2026-08-18",
+      "from": "Casey Ng <casey.ng@pinnacleops.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the nda for review.\n\nCasey Ng"
+    },
+    {
+      "message_id": "deal_030_m04",
+      "date": "2026-08-20",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Casey Ng <casey.ng@pinnacleops.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Pinnacle Ops FY26 - next steps on paperwork",
+      "body": "Hi Casey,\n\nThe nda is currently with your legal team for review.\n\nChris Alvarez"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "in_review",
+      "last_movement_date": "2026-08-20",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is currently with your legal team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "deal_id": "deal_004",
+  "split": "test",
+  "slice": "legal_stall_our",
+  "synthetic": true,
+  "subject": "Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_004_m01",
+      "date": "2026-08-13",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nGreat call today on Atlas Civic Tech evaluating Cedar Peak Systems. I'll start lining up the usual deal documents on our side.\n\nThanks,\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m02",
+      "date": "2026-08-14",
+      "from": "Jamie Patel <jamie.patel@atlascivic.test>",
+      "to": [
+        "Avery Quinn <avery.quinn@cedarpeak.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Avery,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nJamie Patel"
+    },
+    {
+      "message_id": "deal_004_m03",
+      "date": "2026-08-15",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the nda when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m04",
+      "date": "2026-08-15",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the nda for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m05",
+      "date": "2026-08-27",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nWe have redlines on the nda back with our security / trust team.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m06",
+      "date": "2026-08-13",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the msa when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m07",
+      "date": "2026-08-16",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the msa for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m08",
+      "date": "2026-08-26",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nWe have redlines on the msa back with our legal team.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m09",
+      "date": "2026-08-13",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nCould you please share the dpa when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m10",
+      "date": "2026-08-14",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nI've sent over the dpa for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_004_m11",
+      "date": "2026-08-16",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Jamie Patel <jamie.patel@atlascivic.test>"
+      ],
+      "subject": "Re: Atlas Civic Tech - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Jamie,\n\nWe have redlines on the dpa back with our legal team.\n\nAvery Quinn"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-27",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the nda back with our security / trust team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-26",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the msa back with our legal team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-16",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the dpa back with our legal team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

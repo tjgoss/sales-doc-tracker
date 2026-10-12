@@ -1,0 +1,40 @@
+{
+  "deal_id": "deal_026",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-03",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is blocked pending your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "in_review",
+      "last_movement_date": "2026-08-28",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is currently with our account team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-08-29",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the security questionnaire are with your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

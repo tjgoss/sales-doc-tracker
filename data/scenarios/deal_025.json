@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_025",
+  "split": "test",
+  "slice": "procurement_block",
+  "synthetic": true,
+  "seller": {
+    "company": "Northline Analytics",
+    "domain": "northline.test",
+    "rep_name": "Jordan Hale",
+    "rep_email": "jordan.hale@northline.test"
+  },
+  "buyer": {
+    "company": "Meridian Retail Group",
+    "domain": "meridian-retail.test",
+    "champion_name": "Sam Ortiz",
+    "champion_email": "sam.ortiz@meridian-retail.test"
+  },
+  "opportunity_name": "Meridian Retail Group - Northline Analytics FY26",
+  "thread_start_date": "2026-09-07",
+  "documents": [
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "in_review",
+      "last_movement_date": "2026-09-25",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-11",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-12",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-25",
+          "holder": "our_rep",
+          "status": "in_review",
+          "note": "msa moved to our_rep / in_review"
+        }
+      ]
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-12",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-10",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "sow moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-12",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "sow moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-12",
+          "holder": "cust_procurement",
+          "status": "blocked",
+          "note": "sow moved to cust_procurement / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-23",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-09-11",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "dpa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-09-12",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "dpa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-23",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "dpa moved to our_rep / signed"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": false,
+    "scheduling_aside": false,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

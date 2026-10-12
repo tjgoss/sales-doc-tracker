@@ -1,0 +1,62 @@
+{
+  "deal_id": "deal_017",
+  "split": "test",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-09-11",
+      "deadline": "2026-09-18",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is blocked pending your legal team. Please aim to finish by 2026-09-18.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete. Please aim to finish by 2026-09-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "blocked",
+      "last_movement_date": "2026-09-02",
+      "deadline": "2026-09-05",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our account team. Please aim to finish by 2026-09-05.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_procurement",
+      "status": "sent",
+      "last_movement_date": "2026-09-07",
+      "deadline": "2026-09-12",
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the soc2 for review. Please aim to finish by 2026-09-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is fully signed and complete. Please aim to finish by 2026-09-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

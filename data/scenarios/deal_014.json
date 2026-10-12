@@ -1,0 +1,163 @@
+{
+  "deal_id": "deal_014",
+  "split": "test",
+  "slice": "legal_stall_our",
+  "synthetic": true,
+  "seller": {
+    "company": "Pinnacle Ops",
+    "domain": "pinnacleops.test",
+    "rep_name": "Casey Ng",
+    "rep_email": "casey.ng@pinnacleops.test"
+  },
+  "buyer": {
+    "company": "Lakeview Health Partners",
+    "domain": "lakeviewhealth.test",
+    "champion_name": "Taylor Brooks",
+    "champion_email": "taylor.brooks@lakeviewhealth.test"
+  },
+  "opportunity_name": "Lakeview Health Partners - Pinnacle Ops FY26",
+  "thread_start_date": "2026-08-08",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-10",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-10",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_rep",
+          "status": "signed",
+          "note": "nda moved to our_rep / signed"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_legal",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-08-10",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-08",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_legal",
+          "status": "redlines_with_us",
+          "note": "msa moved to our_legal / redlines_with_us"
+        }
+      ]
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_security",
+      "status": "requested",
+      "last_movement_date": "2026-08-15",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-09",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "security_questionnaire moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-10",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "security_questionnaire moved to our_security / sent"
+        },
+        {
+          "date": "2026-08-15",
+          "holder": "cust_security",
+          "status": "requested",
+          "note": "security_questionnaire moved to cust_security / requested"
+        }
+      ]
+    },
+    {
+      "doc_type": "sow",
+      "holder": "cust_procurement",
+      "status": "in_review",
+      "last_movement_date": "2026-08-18",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-10",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "sow moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-14",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "sow moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-18",
+          "holder": "cust_procurement",
+          "status": "in_review",
+          "note": "sow moved to cust_procurement / in_review"
+        }
+      ]
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_security",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-08-12",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-08",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "soc2 moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-11",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "soc2 moved to our_security / sent"
+        },
+        {
+          "date": "2026-08-12",
+          "holder": "cust_security",
+          "status": "redlines_with_customer",
+          "note": "soc2 moved to cust_security / redlines_with_customer"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": true,
+    "scheduling_aside": true,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "deal_id": "deal_017",
+  "split": "test",
+  "slice": "deadline_explicit",
+  "synthetic": true,
+  "subject": "Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_017_m01",
+      "date": "2026-08-29",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nGreat call today on Harbor Mutual Bank evaluating Northline Analytics. I'll start lining up the usual deal documents on our side.\n\nThanks,\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m02",
+      "date": "2026-08-31",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the nda when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m03",
+      "date": "2026-09-04",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the nda for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m04",
+      "date": "2026-09-11",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nThe nda is blocked pending your legal team. Please aim to finish by 2026-09-18.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_017_m05",
+      "date": "2026-09-02",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the msa when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m06",
+      "date": "2026-09-03",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the msa for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m07",
+      "date": "2026-09-06",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe msa is fully signed and complete. Please aim to finish by 2026-09-09.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m08",
+      "date": "2026-08-30",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the security questionnaire when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m09",
+      "date": "2026-09-01",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the security questionnaire for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m10",
+      "date": "2026-09-02",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe security questionnaire is blocked pending our account team. Please aim to finish by 2026-09-05.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m11",
+      "date": "2026-09-01",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the soc2 when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m12",
+      "date": "2026-09-01",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the soc2 for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m13",
+      "date": "2026-09-07",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Jordan Hale <jordan.hale@northline.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Jordan,\n\nI've sent over the soc2 for review. Please aim to finish by 2026-09-12.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_017_m14",
+      "date": "2026-08-31",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the dpa when you have a chance?\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m15",
+      "date": "2026-09-01",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the dpa for review.\n\nJordan Hale"
+    },
+    {
+      "message_id": "deal_017_m16",
+      "date": "2026-09-06",
+      "from": "Jordan Hale <jordan.hale@northline.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Northline Analytics FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe dpa is fully signed and complete. Please aim to finish by 2026-09-09.\n\nJordan Hale"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-09-11",
+      "deadline": "2026-09-18",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is blocked pending your legal team. Please aim to finish by 2026-09-18.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete. Please aim to finish by 2026-09-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "blocked",
+      "last_movement_date": "2026-09-02",
+      "deadline": "2026-09-05",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our account team. Please aim to finish by 2026-09-05.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "cust_procurement",
+      "status": "sent",
+      "last_movement_date": "2026-09-07",
+      "deadline": "2026-09-12",
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the soc2 for review. Please aim to finish by 2026-09-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-06",
+      "deadline": "2026-09-09",
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is fully signed and complete. Please aim to finish by 2026-09-09.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

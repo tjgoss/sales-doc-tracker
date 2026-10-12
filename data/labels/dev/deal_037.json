@@ -1,0 +1,62 @@
+{
+  "deal_id": "deal_037",
+  "split": "dev",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "redlines_with_us",
+      "last_movement_date": "2026-09-12",
+      "deadline": "2026-09-15",
+      "confidence": 1.0,
+      "evidence_quote": "We have redlines on the nda back with our security / trust team. Please aim to finish by 2026-09-15.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-09-14",
+      "deadline": "2026-09-21",
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the msa are with your procurement team. Please aim to finish by 2026-09-21.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "in_review",
+      "last_movement_date": "2026-09-18",
+      "deadline": "2026-09-23",
+      "confidence": 1.0,
+      "evidence_quote": "The sow is currently with our account team for review. Please aim to finish by 2026-09-23.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-16",
+      "deadline": "2026-09-19",
+      "confidence": 1.0,
+      "evidence_quote": "The soc2 is fully signed and complete. Please aim to finish by 2026-09-19.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-09",
+      "deadline": "2026-09-16",
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is fully signed and complete. Please aim to finish by 2026-09-16.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

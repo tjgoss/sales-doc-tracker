@@ -1,0 +1,196 @@
+{
+  "deal_id": "deal_036",
+  "split": "test",
+  "slice": "multi_doc_mixed",
+  "synthetic": true,
+  "subject": "Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_036_m01",
+      "date": "2026-09-05",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nGreat call today on Polaris Manufacturing evaluating Cedar Peak Systems. I'll start lining up the usual deal documents on our side.\n\nThanks,\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m02",
+      "date": "2026-09-06",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Avery Quinn <avery.quinn@cedarpeak.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Avery,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nChris Alvarez"
+    },
+    {
+      "message_id": "deal_036_m03",
+      "date": "2026-09-05",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the nda when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m04",
+      "date": "2026-09-06",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the nda for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m05",
+      "date": "2026-09-08",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the nda for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m06",
+      "date": "2026-09-06",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the msa when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m07",
+      "date": "2026-09-06",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the msa for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m08",
+      "date": "2026-09-10",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Avery Quinn <avery.quinn@cedarpeak.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Avery,\n\nCould you please share the msa when you have a chance?\n\nChris Alvarez"
+    },
+    {
+      "message_id": "deal_036_m09",
+      "date": "2026-09-05",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the dpa when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m10",
+      "date": "2026-09-05",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the dpa for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m11",
+      "date": "2026-09-05",
+      "from": "Chris Alvarez <chris.alvarez@polarismfg.test>",
+      "to": [
+        "Avery Quinn <avery.quinn@cedarpeak.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Avery,\n\nRedlines on the dpa are with your procurement team.\n\nChris Alvarez"
+    },
+    {
+      "message_id": "deal_036_m12",
+      "date": "2026-09-05",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nCould you please share the soc2 when you have a chance?\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m13",
+      "date": "2026-09-08",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nI've sent over the soc2 for review.\n\nAvery Quinn"
+    },
+    {
+      "message_id": "deal_036_m14",
+      "date": "2026-09-19",
+      "from": "Avery Quinn <avery.quinn@cedarpeak.test>",
+      "to": [
+        "Chris Alvarez <chris.alvarez@polarismfg.test>"
+      ],
+      "subject": "Re: Polaris Manufacturing - Cedar Peak Systems FY26 - next steps on paperwork",
+      "body": "Hi Chris,\n\nThe soc2 is fully signed and complete.\n\nAvery Quinn"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "sent",
+      "last_movement_date": "2026-09-08",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "I've sent over the nda for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_legal",
+      "status": "requested",
+      "last_movement_date": "2026-09-10",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the msa when you have a chance?",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-09-05",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Redlines on the dpa are with your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-19",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The soc2 is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "deal_id": "deal_011",
+  "split": "test",
+  "slice": "happy_path_signed",
+  "synthetic": true,
+  "subject": "Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_011_m01",
+      "date": "2026-09-14",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nGreat call today on Harbor Mutual Bank evaluating Bright Harbor Software. I'll start lining up the usual deal documents on our side.\n\nThanks,\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m02",
+      "date": "2026-09-15",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_011_m03",
+      "date": "2026-09-18",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the nda when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m04",
+      "date": "2026-09-22",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the nda for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m05",
+      "date": "2026-09-28",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe nda is fully signed and complete.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m06",
+      "date": "2026-09-16",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the msa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m07",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m08",
+      "date": "2026-09-19",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe msa is fully signed and complete.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m09",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the dpa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m10",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the dpa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m11",
+      "date": "2026-09-28",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe dpa is fully signed and complete.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m12",
+      "date": "2026-09-15",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the security questionnaire when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m13",
+      "date": "2026-09-15",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the security questionnaire for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m14",
+      "date": "2026-09-15",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe security questionnaire is fully signed and complete.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m15",
+      "date": "2026-09-14",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the sow when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m16",
+      "date": "2026-09-18",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the sow for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_011_m17",
+      "date": "2026-09-20",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nThe sow is fully signed and complete.\n\nRiley Santos"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-28",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-19",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "dpa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-28",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The dpa is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-15",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-09-20",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The sow is fully signed and complete.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

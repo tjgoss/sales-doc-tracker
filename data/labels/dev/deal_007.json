@@ -1,0 +1,62 @@
+{
+  "deal_id": "deal_007",
+  "split": "dev",
+  "labels": [
+    {
+      "doc_type": "nda",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-05",
+      "deadline": "2026-08-12",
+      "confidence": 1.0,
+      "evidence_quote": "The nda is fully signed and complete. Please aim to finish by 2026-08-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-21",
+      "deadline": "2026-08-31",
+      "confidence": 1.0,
+      "evidence_quote": "The msa is fully signed and complete. Please aim to finish by 2026-08-31.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "our_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-08-15",
+      "deadline": "2026-08-20",
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is blocked pending our legal team. Please aim to finish by 2026-08-20.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "soc2",
+      "holder": "our_rep",
+      "status": "signed",
+      "last_movement_date": "2026-08-05",
+      "deadline": "2026-08-12",
+      "confidence": 1.0,
+      "evidence_quote": "The soc2 is fully signed and complete. Please aim to finish by 2026-08-12.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "sow",
+      "holder": "our_legal",
+      "status": "blocked",
+      "last_movement_date": "2026-08-12",
+      "deadline": "2026-08-15",
+      "confidence": 1.0,
+      "evidence_quote": "The sow is blocked pending our legal team. Please aim to finish by 2026-08-15.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ],
+  "note": "Answer key A from scenario spec. Blind hand-label B still required."
+}

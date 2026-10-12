@@ -1,0 +1,155 @@
+{
+  "deal_id": "deal_023",
+  "split": "test",
+  "slice": "security_stall_cust",
+  "synthetic": true,
+  "subject": "Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+  "messages": [
+    {
+      "message_id": "deal_023_m01",
+      "date": "2026-09-13",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nGreat call today on Harbor Mutual Bank evaluating Bright Harbor Software. I'll start lining up the usual deal documents on our side.\n\nThanks,\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m02",
+      "date": "2026-09-14",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nCan we move Thursday's working session to 2pm ET? No doc updates from me yet.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_023_m03",
+      "date": "2026-09-14",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the nda when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m04",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the nda for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m05",
+      "date": "2026-09-17",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the nda when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m06",
+      "date": "2026-09-15",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the msa when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m07",
+      "date": "2026-09-18",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the msa for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m08",
+      "date": "2026-09-22",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nThe msa is blocked pending your procurement team.\n\nDrew Kim"
+    },
+    {
+      "message_id": "deal_023_m09",
+      "date": "2026-09-16",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nCould you please share the security questionnaire when you have a chance?\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m10",
+      "date": "2026-09-16",
+      "from": "Riley Santos <riley.santos@brightharbor.test>",
+      "to": [
+        "Drew Kim <drew.kim@harbormutual.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Drew,\n\nI've sent over the security questionnaire for review.\n\nRiley Santos"
+    },
+    {
+      "message_id": "deal_023_m11",
+      "date": "2026-09-23",
+      "from": "Drew Kim <drew.kim@harbormutual.test>",
+      "to": [
+        "Riley Santos <riley.santos@brightharbor.test>"
+      ],
+      "subject": "Re: Harbor Mutual Bank - Bright Harbor Software FY26 - next steps on paperwork",
+      "body": "Hi Riley,\n\nThe security questionnaire is currently with your security team for review.\n\nDrew Kim"
+    }
+  ],
+  "attachments": [],
+  "gold_labels_A": [
+    {
+      "doc_type": "nda",
+      "holder": "our_security",
+      "status": "requested",
+      "last_movement_date": "2026-09-17",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "Could you please share the nda when you have a chance?",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "msa",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-22",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The msa is blocked pending your procurement team.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_security",
+      "status": "in_review",
+      "last_movement_date": "2026-09-23",
+      "deadline": null,
+      "confidence": 1.0,
+      "evidence_quote": "The security questionnaire is currently with your security team for review.",
+      "needs_review": false,
+      "source": "answer_key_A"
+    }
+  ]
+}

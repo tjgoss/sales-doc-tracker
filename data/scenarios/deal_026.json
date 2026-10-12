@@ -1,0 +1,109 @@
+{
+  "deal_id": "deal_026",
+  "split": "test",
+  "slice": "multi_doc_mixed",
+  "synthetic": true,
+  "seller": {
+    "company": "Pinnacle Ops",
+    "domain": "pinnacleops.test",
+    "rep_name": "Casey Ng",
+    "rep_email": "casey.ng@pinnacleops.test"
+  },
+  "buyer": {
+    "company": "Lakeview Health Partners",
+    "domain": "lakeviewhealth.test",
+    "champion_name": "Taylor Brooks",
+    "champion_email": "taylor.brooks@lakeviewhealth.test"
+  },
+  "opportunity_name": "Lakeview Health Partners - Pinnacle Ops FY26",
+  "thread_start_date": "2026-08-24",
+  "documents": [
+    {
+      "doc_type": "nda",
+      "holder": "cust_procurement",
+      "status": "blocked",
+      "last_movement_date": "2026-09-03",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-28",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "nda moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-30",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "nda moved to our_legal / sent"
+        },
+        {
+          "date": "2026-09-03",
+          "holder": "cust_procurement",
+          "status": "blocked",
+          "note": "nda moved to cust_procurement / blocked"
+        }
+      ]
+    },
+    {
+      "doc_type": "msa",
+      "holder": "our_rep",
+      "status": "in_review",
+      "last_movement_date": "2026-08-28",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-27",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "msa moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-28",
+          "holder": "our_legal",
+          "status": "sent",
+          "note": "msa moved to our_legal / sent"
+        },
+        {
+          "date": "2026-08-28",
+          "holder": "our_rep",
+          "status": "in_review",
+          "note": "msa moved to our_rep / in_review"
+        }
+      ]
+    },
+    {
+      "doc_type": "security_questionnaire",
+      "holder": "cust_procurement",
+      "status": "redlines_with_customer",
+      "last_movement_date": "2026-08-29",
+      "deadline": null,
+      "events": [
+        {
+          "date": "2026-08-25",
+          "holder": "our_rep",
+          "status": "requested",
+          "note": "security_questionnaire moved to our_rep / requested"
+        },
+        {
+          "date": "2026-08-26",
+          "holder": "our_security",
+          "status": "sent",
+          "note": "security_questionnaire moved to our_security / sent"
+        },
+        {
+          "date": "2026-08-29",
+          "holder": "cust_procurement",
+          "status": "redlines_with_customer",
+          "note": "security_questionnaire moved to cust_procurement / redlines_with_customer"
+        }
+      ]
+    }
+  ],
+  "noise_flags": {
+    "cc_noise": true,
+    "scheduling_aside": true,
+    "attachment_mentioned_not_attached": false,
+    "forwarded_snippet": false
+  }
+}
