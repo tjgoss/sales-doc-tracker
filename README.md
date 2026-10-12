@@ -16,6 +16,8 @@ Results sync to Salesforce as a `Deal_Document__c` record on each Opportunity, s
 
 Work in progress. Week one is underway: building the synthetic dataset, the multi-agent pipeline (Python, Google ADK, Gemini), an accuracy evaluation on hand-labeled threads, and a Salesforce Developer Edition sync. Accuracy results will be published here once they're measured.
 
+See [VERIFY.md](VERIFY.md) for how to check that it works.
+
 ## Data
 
 This project uses **synthetic data only**. It contains no real customer, employer, or deal data.
